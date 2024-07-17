@@ -1,0 +1,5 @@
+opencv-python # cv2
+pillow #PIL 
+numpy
+matplotlib
+scipy
